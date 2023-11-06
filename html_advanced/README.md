@@ -37,14 +37,14 @@ At the end of this project, you are expected to be able to <a href="https://fs.b
 # Sitemap of the project
 <br>
 
-<img src="image/sitemap.png" alt="Sitemap">
+<img src="image/assets/sitemap.png" alt="Sitemap">
 
 <br>
 
 # Wireframe of `Techium` project
 <br>
 
-<img src="image/wireframe.png" alt="Wireframe">
+<img src="image/assets/wireframe.png" alt="Wireframe">
 
 <br>
 
