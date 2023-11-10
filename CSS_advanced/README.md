@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>📄 Advanced CSS 🛠️</h1>
+    <h1>🎨 Advanced CSS 🛠️</h1>
 </div>
 
 ![Holberton School Logo](https://images.squarespace-cdn.com/content/v1/5a4bfe8bf09ca4228ceca3b7/1539139199598-ANH454IHZI1OKWONKRXY/logo.jpg?format=1500w)
@@ -39,18 +39,24 @@ At the end of this project, you are expected to be able to <a href="https://fs.b
 ## Files you need for the project
 ```favicon.jpg```
 
+![favicon.jpg](images/favicon.jpg)
 
-download favicon.jpg
+[download favicon.jpg](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231110%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231110T130447Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d97e3bda4814f55db6537b04c4b9448330716d65f99bb1570b5cdfe502f1129a)
+---
 
 ```logo-black.png```
 
+![logo-black.png](images/logo-black.png)
 
-download logo-black.png
+[download logo-black.png](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231110%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231110T130447Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=5c14e1f532000090967aa5762dcfc81a242f718e6c2403ff22078acb1f7876ef)
+---
 
 ```logo-white.png```
 
+![logo-white.png](images/logo-white.png)
 
-download logo-white.png
+[download logo-white.png](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231110%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231110T130447Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=a5076fc6913689e52b5b280bc58a0f03f50118ba3fbad0ce14dc14984fb9abed)
+---
 
 Store all these under a directory named “images”
 
@@ -417,9 +423,12 @@ Store all these under a directory named “images”
 </html>
 ```
 </details>
+
 You can save it in a ```index.html``` file and replace the ```<link rel='stylesheet' href='#'>``` by the right CSS file.
 
 # End goal of the project
+
+![image1](images/assets/image1.png)
 
 Important note: **details are important!** lowercase vs uppercase / wrong letter… be careful!
 
