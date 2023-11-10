@@ -15,12 +15,11 @@ This repository was made to store all directories of my projects, it was made in
 >:memo:This is a non-exhaustive list of my projects, and I will update it as soon as I have finished a project !
 
 <details>
-<summary> <strong> 📁 November 6 > November 10 NEED CHANGES </strong> </summary>
+<summary> <strong> 📁 November 6 > November 10 </strong> </summary>
 <br>
 
-* <a href="https://github.com/RaphSchp/holbertonschool-higher_level_programming/tree/main/python-hello_world">python-hello_world</a>
-* <a href="https://github.com/RaphSchp/holbertonschool-higher_level_programming/tree/main/python-if_else_loops_functions">python-if_else_loops_functions</a>
-* <a href="https://github.com/RaphSchp/holbertonschool-higher_level_programming/tree/main/python-import_modules">python-import_modules</a>
+* <a href="https://github.com/RaphSchp/holbertonschool-web_front_end/tree/main/html_advanced">html_advanced</a>
+* <a href="https://github.com/RaphSchp/holbertonschool-web_front_end/tree/main/CSS_advanced">CSS_advanced</a>
 
 </details>
 
